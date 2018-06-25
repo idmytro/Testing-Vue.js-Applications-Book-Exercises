@@ -1,1 +1,1 @@
-# Testing-Vue.js-Applications-Book-Exercises
+# Testing Vue.js Applications Book Exercises

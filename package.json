@@ -1,0 +1,19 @@
+{
+  "name": "Testing-Vue.js-Applications-Book-Exercises",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmytro/Testing-Vue.js-Applications-Book-Exercises.git"
+  },
+  "keywords": [],
+  "author": "Dmytro Cisar <dmytro.cisar@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/idmytro/Testing-Vue.js-Applications-Book-Exercises/issues"
+  },
+  "homepage": "https://github.com/idmytro/Testing-Vue.js-Applications-Book-Exercises#readme"
+}

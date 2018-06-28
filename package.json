@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/idmytro/Testing-Vue.js-Applications-Book-Exercises/issues"
   },
-  "homepage": "https://github.com/idmytro/Testing-Vue.js-Applications-Book-Exercises#readme"
+  "homepage": "https://github.com/idmytro/Testing-Vue.js-Applications-Book-Exercises#readme",
+  "devDependencies": {
+    "jest": "23.2.0"
+  }
 }

@@ -1,15 +1,13 @@
+<!-- TestComponent.vue -->
 <template>
   <div>
-    <child testProp="some-value" />
+    <child test-prop="some-value" />
   </div>
 </template>
 
 <script>
-// TestComponent.vue
-
 import Child from './Child.vue'
 export default {
-  components: { Child }
+  components: {Child}
 }
 </script>
-

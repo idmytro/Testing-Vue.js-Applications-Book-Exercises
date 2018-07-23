@@ -1,0 +1,3 @@
+/*
+Write the code to shallow mount a component with a Vuex store installed on a localVue. The store config object will be imported from another file
+*/
